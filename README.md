@@ -1,2 +1,1 @@
-My First App using Trongate
-Simple Quiz App
+Aplikasi Pelaporan Kehilangan Menggunakan Trogate Framework
